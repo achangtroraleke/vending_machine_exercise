@@ -1,0 +1,38 @@
+#chips-page{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+#chips-page,
+a{
+    color:white;
+}
+
+h3{
+    margin: 0;
+}
+
+#chip-container{
+    height: auto;
+    width: 100px;
+    z-index: -1;
+}
+
+#chip-container img{
+    width: 100%;
+    height: auto;
+    z-index: -1;
+}
+
+button{
+    border-radius: 5px;
+    border: none;
+    font-size: 24px;
+    width: fit-content;
+}
+h3,
+a,
+button{
+    font-size: 24px;
+    font-weight: 900;
+}
+

@@ -1,0 +1,10 @@
+#fish-page{
+    width: 100%;
+    height: 100%;
+    background-image: url('./images/fish.gif');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    color: white;
+}
+

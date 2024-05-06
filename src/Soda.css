@@ -1,0 +1,8 @@
+#soda-img{
+animation: myrotation 2s infinite;
+}
+
+
+@keyframes myrotation{
+    100% {transform: rotate(360deg);}
+}
